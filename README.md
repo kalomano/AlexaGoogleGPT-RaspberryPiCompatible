@@ -1,5 +1,5 @@
 # AlexaGoogleGPT-RaspberryPiCompatible
-A different kind of Alexa which uses GPT-3 to answer, I'm sure that in a no longer future this would be in every home (in my case is just a kind of DEMO). 
+A different kind of Alexa which uses GPT-3 to answer, I'm sure that in a no longer future this will be in every home (in my case is just a kind of DEMO). 
 Using key word "Alexa" to record the question and key word "Blueberry" to get the answer. Examples of use below.
 
 ![DALL·E 2022-12-19 17 59 57 - Alexa AI, CPU, Digital art (1)](https://user-images.githubusercontent.com/73484962/208480464-7f7f630b-7a8b-436e-a50c-619728e5cfdd.png)
@@ -42,5 +42,5 @@ Run <code>porcupine_demo_mic --access_key *YourOwnPorcupineAccessKey* --keywords
  Say **Alexa** to start recording your question, say **Blueberry** to stop recording and get your answer.
  
  <h2>Examples (tested on Raspberry Pi 3 model B)</h2>
- 
- 
+ <h3>Español</h3>
+ <h3>English</h3>
