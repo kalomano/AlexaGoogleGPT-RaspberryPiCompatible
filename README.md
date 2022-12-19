@@ -42,5 +42,10 @@ Run <code>porcupine_demo_mic --access_key *YourOwnPorcupineAccessKey* --keywords
  Say **Alexa** to start recording your question, say **Blueberry** to stop recording and get your answer.
  
  <h2>Examples (tested on Raspberry Pi 3 model B)</h2>
- <h3>Español</h3>
+ 
  <h3>English</h3>
+ 
+Asking in english: [This example includes the instructions to improve poker skills](https://www.youtube.com/watch?v=QPyZ5LWNJAQ)
+ <h3>Español</h3>
+ 
+Asking in spanish: [This example includes a poem created by the AI](https://www.youtube.com/watch?v=bC6QcOMrF6g) 
